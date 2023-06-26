@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @DjaroDonk
-- 👀 I’m interested in 
+- 👀 Experience with
   - Python
-  - Unity Engine
+  - Unity Engine / C#
   - Game Development
+  - HTML/JS/CSS
+  - Svelte
 - 🌱 I’m currently learning
   - Unity / C#
 - 💞️ I’m looking to collaborate on
